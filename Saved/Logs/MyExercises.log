@@ -2391,3 +2391,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.21-12.12.55:445][420]AssetCheck: /Game/CoDead-content/Untitled_HLOD0_Instancing Validating asset
 [2024.12.21-12.13.00:602][718]LogSlate: Window 'View Changes' being destroyed
 [2024.12.21-12.13.00:607][718]LogSlate: Window 'View Changes' being destroyed
+[2024.12.21-12.14.07:723][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.21-12.14.09:615][861]LogSlate: Window 'Save Content' being destroyed
+[2024.12.21-12.14.09:623][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.21-12.14.09:657][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CoDead-content/Untitled/B/M1/Q8EMTM0E8AOU2076D0KSWW
+[2024.12.21-12.14.09:657][861]LogSavePackage: Moving '../../../../../../CoDead/Saved/Q8EMTM0E8AOU2076D0KSWWC69636D044E64840C4274C93E309F56A.tmp' to '../../../../../../CoDead/Content/__ExternalActors__/CoDead-content/Untitled/B/M1/Q8EMTM0E8AOU2076D0KSWW.uasset'
+[2024.12.21-12.14.09:661][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CoDead-content/Untitled/4/IP/5SDEKW5GZFNP3VNZ4TZCAL
+[2024.12.21-12.14.09:661][861]LogSavePackage: Moving '../../../../../../CoDead/Saved/5SDEKW5GZFNP3VNZ4TZCALA61F1B0A4F02F96C1912F7BAB676BB1E.tmp' to '../../../../../../CoDead/Content/__ExternalActors__/CoDead-content/Untitled/4/IP/5SDEKW5GZFNP3VNZ4TZCAL.uasset'
+[2024.12.21-12.14.09:663][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CoDead-content/Untitled/D/TU/77VHJY0NU202RQSB692E4M
+[2024.12.21-12.14.09:663][861]LogSavePackage: Moving '../../../../../../CoDead/Saved/77VHJY0NU202RQSB692E4MA567AF17461CF1615FF788A1693004C3.tmp' to '../../../../../../CoDead/Content/__ExternalActors__/CoDead-content/Untitled/D/TU/77VHJY0NU202RQSB692E4M.uasset'
+[2024.12.21-12.14.09:666][861]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/CoDead-content/Untitled/E/DL/VU1PQJX9LPAZKDOJOOY10Z
+[2024.12.21-12.14.09:666][861]LogSavePackage: Moving '../../../../../../CoDead/Saved/VU1PQJX9LPAZKDOJOOY10Z689ED1AC42344F6D193AC4AB4A94F17E.tmp' to '../../../../../../CoDead/Content/__ExternalActors__/CoDead-content/Untitled/E/DL/VU1PQJX9LPAZKDOJOOY10Z.uasset'
+[2024.12.21-12.14.09:679][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.842 ms (total: 27.8 sec)
+[2024.12.21-12.14.09:723][861]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.21-12.14.09:724][861]LogContentValidation: Enabled validators:
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.21-12.14.09:724][861]AssetCheck: /Game/CoDead-content/Untitled Validating asset
