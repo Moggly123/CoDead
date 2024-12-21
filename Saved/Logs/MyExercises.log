@@ -1594,3 +1594,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.21-12.09.29:943][681]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2024.12.21-12.09.29:943][681]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2024.12.21-12.09.29:943][681]LogShaderCompilers: Display: ================================================
+[2024.12.21-12.10.34:222][ 21]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.12.21-12.11.47:992][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.119385
+[2024.12.21-12.11.48:992][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-12.11.48:992][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.786285, Update Interval: 312.530304
