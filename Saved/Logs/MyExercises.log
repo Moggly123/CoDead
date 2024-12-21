@@ -2412,3 +2412,75 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.21-12.14.09:724][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.21-12.14.09:724][861]AssetCheck: /Game/CoDead-content/Untitled Validating asset
+[2024.12.21-12.17.04:453][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.578674
+[2024.12.21-12.17.05:454][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-12.17.05:454][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 641.245483, Update Interval: 323.081146
+[2024.12.21-12.18.22:922][806]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.21-12.18.22:931][806]LogContentBundle: [Untitled(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.21-12.18.22:931][806]LogWorldPartition: Display: GenerateStreaming for 'Untitled' started...
+[2024.12.21-12.18.22:945][806]LogWorldPartition: Display: GenerateStreaming for 'Untitled' took 14.916 ms
+[2024.12.21-12.18.22:949][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.21-12.18.22:958][806]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.21-12.18.22:958][806]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.12.21-12.18.22:959][806]LogPlayLevel: Creating play world package: /Game/CoDead-content/UEDPIE_0_Untitled
+[2024.12.21-12.18.22:964][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004841s)
+[2024.12.21-12.18.22:965][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CoDead-content/Untitled.Untitled to /Game/CoDead-content/UEDPIE_0_Untitled.Untitled (0.004897s)
+[2024.12.21-12.18.22:974][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.21-12.18.22:978][806]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2024.12.21-12.18.22:981][806]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/CoDead-content/UEDPIE_0_Untitled.Untitled'.
+[2024.12.21-12.18.22:981][806]LogWorldPartition: ULevel::OnLevelLoaded(Untitled)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.21-12.18.22:981][806]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.21-12.18.22:981][806]LogWorldPartition: UWorldPartition::Initialize : World = /Game/CoDead-content/UEDPIE_0_Untitled.Untitled, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.21-12.18.22:981][806]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.21-12.18.22:983][806]LogWorldPartition: Display: WorldPartition initialize took 2.489 ms (total: 341.242 ms)
+[2024.12.21-12.18.22:984][806]LogPlayLevel: PIE: World Init took: (0.005015s)
+[2024.12.21-12.18.22:984][806]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.21-12.18.22:984][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.21-12.18.22:984][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.21-12.18.22:984][806]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.21-12.18.22:984][806]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.21-12.18.22:985][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.21-12.18.22:987][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.21-12.18.23:019][806]LogAudioMixer: Display: Using Audio Hardware Device Hörlurar på headset (3- Arctis 7 Chat)
+[2024.12.21-12.18.23:021][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.21-12.18.23:021][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.21-12.18.23:021][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.21-12.18.23:022][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.21-12.18.23:022][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.12.21-12.18.23:024][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.21-12.18.23:024][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.21-12.18.23:024][806]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.21-12.18.23:024][806]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled'.
+[2024.12.21-12.18.23:024][806]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.21-12.18.23:029][806]LogLoad: Game class is 'GameModeBase'
+[2024.12.21-12.18.23:031][806]LogWorld: Bringing World /Game/CoDead-content/UEDPIE_0_Untitled.Untitled up for play (max tick rate 60) at 2024.12.21-13.18.23
+[2024.12.21-12.18.23:032][806]LogWorld: Bringing up level for play took: 0.001357
+[2024.12.21-12.18.23:035][806]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.12.21-12.18.23:038][806]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.12.21-12.18.23:063][806]LogStreaming: Display: FlushAsyncLoading(536,535,534,533,532,531,530,529,528,527,526,525,524,523,522,521,520,519,518,517,516,515,514,513,512,511,510,509,508,507,506,505,504,503,502,501,500,499,498,497,496,495,494,493): 44 QueuedPackages, 0 AsyncPackages
+[2024.12.21-12.18.23:268][806]PIE: Server logged in
+[2024.12.21-12.18.23:268][806]PIE: Play in editor total start time 0,34 seconds.
+[2024.12.21-12.18.31:944][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-12.18.31:944][321]LogWorld: BeginTearingDown for /Game/CoDead-content/UEDPIE_0_Untitled
+[2024.12.21-12.18.31:964][321]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.21-12.18.31:964][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-12.18.31:964][321]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/CoDead-content/UEDPIE_0_Untitled.Untitled
+[2024.12.21-12.18.31:970][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.21-12.18.31:974][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.21-12.18.31:987][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.21-12.18.31:987][321]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.21-12.18.31:989][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.21-12.18.31:992][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.21-12.18.32:011][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.21-12.18.32:142][322]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.12.21-12.22.34:089][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 970.214355
+[2024.12.21-12.22.34:256][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.21-12.22.34:256][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 970.363953, Update Interval: 307.547852
+[2024.12.21-12.22.39:217][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.21-12.22.39:219][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CoDead-content/Untitled' took 0.014
